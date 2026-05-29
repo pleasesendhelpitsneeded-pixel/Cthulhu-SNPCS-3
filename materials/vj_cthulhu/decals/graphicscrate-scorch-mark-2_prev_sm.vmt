@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "vj_cthulhu/decals/graphicscrate-scorch-mark-2_prev_sm"
+	"$decal" 1
+	"$translucent" 1
+	"$Size"		"256 256"
+	"$decalscale" 	0.50
+}

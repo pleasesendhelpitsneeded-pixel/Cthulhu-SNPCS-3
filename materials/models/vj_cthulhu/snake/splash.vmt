@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/vj_cthulhu/snake/splash"
+	"$additive" 1
+}

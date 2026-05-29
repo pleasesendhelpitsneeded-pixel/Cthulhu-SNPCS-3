@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name" "Cthulhu SNPCs (REUPLOAD)"
+	"author_name" "Author Name"
+	"info" "{"title":"Cthulhu SNPCs (REUPLOAD)","type":"npc","tags":["cartoon","fun","scenic"],"ignore":[]}"
+}

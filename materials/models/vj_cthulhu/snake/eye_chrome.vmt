@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "halflife/black"
+	"$envmap" "models/vj_cthulhu/snake/eye_chrome"
+	"$additive" 1
+}
